@@ -1,0 +1,43 @@
+﻿
+    .BotonCalculadora
+
+{
+    width: 50px;
+    border: 0.02px solid black;
+}
+
+#DivPrincipal {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Boton0 {
+    width: 100px;
+    border: 0.02px solid black;
+}
+
+#ResultadoId {
+    width: 180px;
+    height: 40px;
+    padding-right: 0px;
+    border: dashed;
+    border-width: thin;
+}
+
+.BotonCalculadoraOp {
+    background-color: #FCCC8B;
+    color: black;
+    border: 0.02px solid black;
+}
+
+h1 {
+    background-color: #B89BF0;
+    border-color: black;
+    border: solid;
+}
+
+body {
+    background-color: #EBBFE1;
+}
+}
